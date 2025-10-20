@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c4ce31c-e192-46b3-8fd3-f066c91a98d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../FX/src/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FX/src/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FX/src/Returns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Modul 2/Codelab/Codelab_Modul2/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Modul 2/Codelab/Codelab_Modul2/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Modul 2/Codelab/Codelab_Modul2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../UAP/src/AbsensiMhs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../UAP/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../UAP/src/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../UAP/src/Orang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../UAP/src/Perusahaan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test uap/src/model/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test uap/src/model/GYM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test uap/src/model/Premium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test uap/src/model/VIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../uap test/src/Anak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../uap test/src/Keluarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../uap test/src/OrangTua.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33y4Zl3tkyEpBojjg1JefH5MYwO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/abida/IdeaProjects/PemLan Semester 3/Modul 1/Tugas/Metnum/Tugas1_Modul2/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="Main" />
+      <recent name="MainApp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c4ce31c-e192-46b3-8fd3-f066c91a98d5" name="Changes" comment="" />
+      <created>1760276036939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760276036939</updated>
+    </task>
+    <servers />
+  </component>
+</project>
